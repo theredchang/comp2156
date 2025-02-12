@@ -9,9 +9,9 @@
     "build": "react-scripts build",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "homepage": "https://github.com/theredchang/comp2156"
+    "deploy": "gh-pages -d build"
   },
+  "homepage": "https://github.com/theredchang/comp2156",
   "repository": {
     "type": "git",
     "url": "git+https://github.io/theredchang/comp2156"
